@@ -7,4 +7,4 @@ A Python library for introductory theoretical cryptography courses.
 
 Please see documentation for setup instructions. 
 
-If you would like to generate documentation `cd` into docs and type `make html`.
+If you would like to generate documentation `cd` into docs and type `make html`. Note, you must have sphinx installed to make docs.
