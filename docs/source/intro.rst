@@ -2,7 +2,7 @@ Intro
 *****
 
 .. NOTE :: All of the assignments provided are based completely off of the
-   homework and practice final from CSE 107 offered at the University of
+   homework and practice final from the undergraduate crypography course offered at the University of
    California San Diego and taught by Professor Mihir Bellare in the 
    Winter of 2015.
 
